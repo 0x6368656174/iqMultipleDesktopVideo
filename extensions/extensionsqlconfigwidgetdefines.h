@@ -1,0 +1,12 @@
+#ifndef EXTENSIONSQLCONFIGWIDGETDEFINES_H
+#define EXTENSIONSQLCONFIGWIDGETDEFINES_H
+
+#define PARAM_DATABASE_DRIVER "databaseDriver"
+#define PARAM_DATABASE_HOST_NAME "databaseHostName"
+#define PARAM_DATABASE_PORT "databasePort"
+#define PARAM_DATABASE_PATCH "databasePatch"
+#define PARAM_DATABASE_NAME "databaseName"
+#define PARAM_DATABASE_USER "databaseUser"
+#define PARAM_DATABASE_PASSWORD "databasePassword"
+
+#endif // EXTENSIONSQLCONFIGWIDGETDEFINES_H

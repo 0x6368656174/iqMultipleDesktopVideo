@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow-090.png</file>
+        <file>icons/arrow-270.png</file>
+        <file>icons/brightness.png</file>
+        <file>icons/calendar-next.png</file>
+        <file>icons/calendar-previous.png</file>
+        <file>icons/clock-select.png</file>
+        <file>icons/clock-select-remain.png</file>
+        <file>icons/color.png</file>
+        <file>icons/color-swatch.png</file>
+        <file>icons/contrast.png</file>
+        <file>icons/control.png</file>
+        <file>icons/control-pause.png</file>
+        <file>icons/control-stop-square.png</file>
+        <file>icons/disk.png</file>
+        <file>icons/disk--pencil.png</file>
+        <file>icons/document--plus.png</file>
+        <file>icons/door-open.png</file>
+        <file>icons/film-timeline.png</file>
+        <file>icons/folder-open-document.png</file>
+        <file>icons/main-icon.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/notification-counter.png</file>
+        <file>icons/pencil.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/popcorn.png</file>
+        <file>icons/qt.png</file>
+        <file>icons/question-frame.png</file>
+        <file>icons/speaker-volume.png</file>
+        <file>icons/speaker-volume-control-mute.png</file>
+        <file>icons/ui-slider.png</file>
+        <file>icons/ui-slider-100.png</file>
+        <file>icons/weight.png</file>
+        <file>icons/plug.png</file>
+        <file>icons/gear.png</file>
+        <file>icons/exclamation-button.png</file>
+        <file>icons/wrench.png</file>
+    </qresource>
+</RCC>
